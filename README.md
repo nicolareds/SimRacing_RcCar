@@ -87,7 +87,6 @@ The project is intended as a platform for experimenting with **remote vehicle co
 |---|---|---|
 | RC platform | Custom RC car | Vehicle platform |
 | ELRS receiver | Matek ELRS-R24-P6V | Receives commands from the transmitter |
-| Vehicle controller | CUAV V5+ | On-board control and command processing |
 | ESC | TBD | Motor control |
 | Steering servo | TBD | Steering control |
 | Battery | TBD | Vehicle power supply |
